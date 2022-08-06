@@ -1,6 +1,6 @@
 {
-    "name": "personal_expenses",
-    "short_name": "personal_expenses",
+    "name": "personal_expenses_app",
+    "short_name": "personal_expenses_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
